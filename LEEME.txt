@@ -1,0 +1,10 @@
+Sitio IML — estructura para publicar en https://mexicolatex.com/
+
+index.html            Versión en español (raíz del dominio)
+en/index.html         Versión en inglés (/en/)
+assets/og-image.png   Imagen para redes sociales (referenciada con URL absoluta)
+robots.txt            Raíz del dominio
+sitemap.xml           Raíz del dominio
+
+Cada index.html es autónomo: imágenes, fuentes, estilos y favicon van incluidos.
+Sube la carpeta completa tal cual al servidor.
